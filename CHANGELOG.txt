@@ -1,0 +1,22 @@
+
+?# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic Versioning]
+(https://semver.org/spec/v2.0.0.html).
+
+## [1.0.0] - 2024-09-25
+### Added
+- README.txt 
+- CHANGELOG.txt
+- DATA DICTIONARY.csv
+- PROTOCOLS.pdf
+- LICENSE.txt
+- Data files
+- iTrack Feb 2023 - HealthAssess_METADATA_QC.csv
+- iTrack Feb 2023 PCO2 METADATA_CP.csv
+- itrackfeb2023_pH_temps_QC.csv
+
+
+
