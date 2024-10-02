@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning]
 
 ## [1.0.0] - 2024-09-25
 ### Added
-- README.txt 
+- README.md 
 - CHANGELOG.txt
 - DATA DICTIONARY.csv
 - PROTOCOLS.pdf
