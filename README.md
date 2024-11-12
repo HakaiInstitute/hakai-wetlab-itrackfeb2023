@@ -34,7 +34,7 @@ This data package collects data and information relating to protocols, data coll
     - Tank pCO2, TCO2, total alkalinity, aragonite saturation, calcite saturation and salinity collected from discrete bottle samples at the beginning and end of the experiment and analyzed using a Burke-o-Lator (**iTrack Feb 2023 PCO2 METADATA_CP.csv**)
 
 - Oyster health data:
-    - Destructive sampling with health assessments of oysters at the end of the experiment (**iTrack Feb 2023 - HealthAssess_METADATA_QC.csv**)
+    - Destructive sampling with health assessments of oysters at the end of the experiment (**iTrack Feb 2023 HealthAssess_METADATA_QC.csv**)
 
 - Protocols: See protocol for a detailed description of lab setup, sampling, analysis and data QA/QC protocols. (**PROTOCOLS.pdf**)
 
