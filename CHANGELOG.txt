@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning]
 - PROTOCOLS.pdf
 - LICENSE.txt
 - Data files
-- iTrack Feb 2023 - HealthAssess_METADATA_QC.csv
+- iTrack Feb 2023 HealthAssess_METADATA_QC.csv
 - iTrack Feb 2023 PCO2 METADATA_CP.csv
 - itrackfeb2023_pH_temps_QC.csv
 
